@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with Aadv1k
 - 📫 How to reach me darneaarush@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a DAVIAN
+- ⚡ Fun fact: I'm a 14 y.o
 
 <!---
 AarushDarne/AarushDarne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
