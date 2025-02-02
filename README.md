@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 - 📫 How to reach me:
   - Email: darneaarush@gmail.com
-  - Twitter: [@AarushDarne](https://twitter.com/AarushDarne)
+  - Twitter: [@AarushDarne](https://x.com/DarneAarush)
 
 - ⚡ Fun fact:
   - I love solving puzzles and playing chess in my free time.
