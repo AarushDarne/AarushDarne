@@ -46,12 +46,4 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AarushDarne&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AarushDarne&theme=onedark)
-
-## 📊 Contribution Graph
-
-![Aarush's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AarushDarne&theme=redical)
-
 Thanks for visiting my profile! Have a great day! 😊
