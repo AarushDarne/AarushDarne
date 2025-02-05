@@ -40,6 +40,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+| Skill | Proficiency |
+|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width ="20" height="20" /> C Programming | 75% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20"/> Python | 75% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" height="20"/> HTML | 90% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> CSS | 85% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript | 5% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20"/> SQL | 30% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="20" height="20" /> PostgreSQL | 60% |
+
 ## 📈 GitHub Stats
 
 ![Aarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarushDarne&show_icons=true&theme=radical)
