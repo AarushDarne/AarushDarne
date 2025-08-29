@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - Version control with Git and GitHub.
 
 - 📫 How to reach me:
-  - Email: darneaarush@gmail.com
+  - Email: aarushdarne@aol.com
   - Twitter: [@AarushDarne](https://x.com/DarneAarush)
 
 - ⚡ Fun fact:
